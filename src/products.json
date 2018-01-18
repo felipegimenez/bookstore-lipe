@@ -1,0 +1,10 @@
+[
+    {
+        "id": 1,
+        "name": "Bíblia",
+        "description": "Bíblia é a sagrada escritutra que foi escrita inspirada por Deus para a humanidade.",
+        "price": 39,
+        "image": "https://http2.mlstatic.com/livro-biblia-sagrada-capa-tipo-couro-com-indice-lateral-D_NQ_NP_22847-MLB20237864765_022015-O.jpg",
+        "category": "Deus"
+    }
+]
