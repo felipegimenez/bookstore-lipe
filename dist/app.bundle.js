@@ -24337,18 +24337,8 @@ var Footer = function Footer(props) {
             { className: "footer-links" },
             _react2.default.createElement(
                 "a",
-                { href: "https://github.com/felipegimenez", target: "_blank" },
+                { href: "https://github.com/felipegimenez/bookstore-lipe/", target: "_blank" },
                 "Veja o c\xF3digo Github"
-            ),
-            _react2.default.createElement(
-                "span",
-                null,
-                "  /  "
-            ),
-            _react2.default.createElement(
-                "a",
-                { href: "mailto:contact@sivadass.in", target: "_blank" },
-                "Need any help?"
             )
         )
     );
