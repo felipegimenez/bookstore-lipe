@@ -6,5 +6,157 @@
         "price": 39,
         "image": "https://http2.mlstatic.com/livro-biblia-sagrada-capa-tipo-couro-com-indice-lateral-D_NQ_NP_22847-MLB20237864765_022015-O.jpg",
         "category": "Deus"
+    },
+    {
+        "id": 2,
+        "name": "Bom dia, Espírito Santo",
+        "description": "Em busca por um relacionamento com o Pai e o Filho.",
+        "price": 20,
+        "image": "https://images-americanas.b2w.io/produtos/01/00/sku/8008/7/8008789_1GG.jpg",
+        "category": "Deus"
+    },
+    {
+        "id": 3,
+        "name": "Descubra seus pontos fortes",
+        "description": "Um programa revolucionário que mostra como desenvolver seus talentos especiais.",
+        "price": 39,
+        "image": "https://carrinho.casasbahia.com.br/Control/ArquivoExibir.aspx?IdArquivo=791530958",
+        "category": "Desenvolvimento Interpessoal"
+    },
+    {
+        "id": 4,
+        "name": "Pai rico, Pai pobre",
+        "description": "O que os ricos ensinam a seus filhos sobre dinheiro.",
+        "price": 70,
+        "image": "https://images-submarino.b2w.io/produtos/01/00/item/132540/2/132540201_2GG.jpg",
+        "category": "Finanças"
+    },
+    {
+        "id": 5,
+        "name": "O poder da ação",
+        "description": "Faça sua vida ideal sair do papel.",
+        "price": 29,
+        "image": "https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/_8550dc2725a63643e42f82b5176a0a8f87765adf.jpg",
+        "category": "Desenvolvimento Interpessoal"
+    },
+    {
+        "id": 6,
+        "name": "Zelda",
+        "description": "A famosa lenda de Zelda.",
+        "price": 64,
+        "image": "https://images-soubarato.b2w.io/produtos/01/00/item/113537/1/113537162_1GG.jpg",
+        "category": "Ficção"
+    },
+    {
+        "id": 7,
+        "name": "A cabana",
+        "description": "A Cabana conta a história de Mackenzie Allen Phillips, que durante muito tempo viveu imerso em um mar de dor.",
+        "price": 30,
+        "image": "https://images-americanas.b2w.io/produtos/01/00/item/6719/4/6719447_1GG.jpg",
+        "category": "Deus"
+    },
+    {
+        "id": 8,
+        "name": "Como fazer amigos e influenciar pessoas",
+        "description": "O guia clássico e definitivo para relacionar-se com as pessoas.",
+        "price": 59,
+        "image": "http://isuba.s8.com.br/produtos/01/00/item/115813/0/115813044_1GG.jpg",
+        "category": "Desenvolvimento Interpessoal"
+    },
+    {
+        "id": 9,
+        "name": "Fora do comum",
+        "description": "Lições de integridade, ética e coragem de uns dos maiores treinadores de gutebol americano.",
+        "price": 29,
+        "image": "http://fernandabelem.com.br/wp-content/uploads/2015/11/Livro-Fora-do-Comum.jpg",
+        "category": "Desenvolvimento Interpessoal"
+    },
+    {
+        "id": 10,
+        "name": "Crer é também pensar",
+        "description": "Explora as diferentes formas como o pensamento pode contribuir plenamente para a vida cristã.",
+        "price": 25,
+        "image": "http://4.bp.blogspot.com/-TqWcQfSPlXE/VQy94PkExuI/AAAAAAAAAkE/YrAeOC30-Dk/s1600/crer-e-tambem-pensar.jpg",
+        "category": "Deus"
+    },
+    {
+        "id": 11,
+        "name": "Jesus Copy",
+        "description": "A revolução das cópias de Jesus.",
+        "price": 23,
+        "image": "http://livrariacrista.vteximg.com.br/arquivos/ids/157083-500-500/Livro__JesusCopy__A_revolucao__599.jpg?v=636454893073800000",
+        "category": "Deus"
+    },
+    {
+        "id": 12,
+        "name": "O monge e o executivo",
+        "description": "Uma história sobre a essência da liderança.",
+        "price": 37,
+        "image": "https://images-submarino.b2w.io/produtos/01/00/item/387/3/387365_1GG.jpg",
+        "category": "Liderança"
+    },
+    {
+        "id": 13,
+        "name": "O negócio do Século XXI",
+        "description": "Do autor do best-seller Pai Rico, Pai Pobre - Robert Kiyosaki.",
+        "price": 23,
+        "image": "http://isuba.s8.com.br/produtos/01/00/item/111590/5/111590592_1GG.jpg",
+        "category": "Finanças"
+    },
+    {
+        "id": 14,
+        "name": "Programação em Python 3",
+        "description": "Uma introdução completa à linguagem Python.",
+        "price": 87,
+        "image": "https://carrinho.casasbahia.com.br/Control/ArquivoExibir.aspx?IdArquivo=243730513",
+        "category": "Programação"
+    },
+    {
+        "id": 15,
+        "name": "SQL - Curso Prático",
+        "description": "Curso Prático de SQL.",
+        "price": 69,
+        "image": "https://images-submarino.b2w.io/produtos/01/00/item/190/2/190245_1GG.jpg",
+        "category": "Banco de Dados"
+    },
+    {
+        "id": 16,
+        "name": "Ruby on Rails",
+        "description": "Desenvolvimento rápido e fácil de aplicação Web.",
+        "price": 79,
+        "image": "https://carrinho.casasbahia.com.br/livros/InformaticaCertificacao/aplicativos%20-programas-cursos/1703677/243396469/Ruby-on-Rails-Desenvolvimento-Facil-e-Rapido-de-Aplicacoes-Web-Rodrigo-Urubatan-1703677.jpg",
+        "category": "Programação"
+    },
+    {
+        "id": 17,
+        "name": "Salomão, o homem mais rico que existiu",
+        "description": "A sabedoria da Bíblia para uma vida plena e bem-sucedida.",
+        "price": 45,
+        "image": "https://i.pinimg.com/736x/7e/dd/77/7edd7740164e1934f977d5d68274f8b3.jpg",
+        "category": "Deus"
+    },
+    {
+        "id": 18,
+        "name": "Big Data para leigos",
+        "description": "Compreenda e utiliza as ferramentas de Big Data.",
+        "price": 23,
+        "image": "http://cienciamodernaonline.vteximg.com.br/arquivos/ids/160090-500-500/Big-Data-para-Leigos.jpg?v=635900199505230000",
+        "category": "Big Data"
+    },
+    {
+        "id": 19,
+        "name": "O Espírito do Leão",
+        "description": "Contos sobre a liderança na selva dos negócios.",
+        "price": 27,
+        "image": "https://carrinho.extra.com.br/Control/ArquivoExibir.aspx?IdArquivo=243342055",
+        "category": "Liderança"
+    },
+    {
+        "id": 20,
+        "name": "Liderança de Alto Nível",
+        "description": "Como criar e liderar organizações de alto desempenho.",
+        "price": 44,
+        "image": "https://carrinho.extra.com.br/Control/ArquivoExibir.aspx?IdArquivo=243049111",
+        "category": "Liderança"
     }
 ]
